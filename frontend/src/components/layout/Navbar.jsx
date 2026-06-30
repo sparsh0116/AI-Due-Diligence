@@ -11,7 +11,7 @@ function Navbar() {
         </h2>
 
         <p className="text-slate-500 text-sm">
-          Welcome back, Sparsh
+          AI Powered Startup Due Diligence Platform
         </p>
 
       </div>
